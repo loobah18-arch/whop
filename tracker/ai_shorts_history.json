@@ -119,6 +119,14 @@
       "timestamp": "2026-10-04T10:41:26.220944+00:00",
       "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_dog_golden_retriever_bodyguard_20261004_104053.mp4",
       "duration_sec": 19.46
+    },
+    {
+      "id": "dog_newfoundland_gentle_giant",
+      "title": "The World's Most Patient 150lb Babysitter",
+      "niche": "dogs",
+      "timestamp": "2026-10-05T11:42:12.998709+00:00",
+      "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_dog_newfoundland_gentle_giant_20261005_114144.mp4",
+      "duration_sec": 21.1
     }
   ]
 }
