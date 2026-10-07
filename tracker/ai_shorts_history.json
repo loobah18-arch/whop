@@ -135,6 +135,14 @@
       "timestamp": "2026-10-06T11:24:29.683279+00:00",
       "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_dog_newfoundland_gentle_giant_20261006_112352.mp4",
       "duration_sec": 21.1
+    },
+    {
+      "id": "dog_newfoundland_gentle_giant",
+      "title": "The World's Most Patient 150lb Babysitter",
+      "niche": "dogs",
+      "timestamp": "2026-10-07T11:12:28.008320+00:00",
+      "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_dog_newfoundland_gentle_giant_20261007_111156.mp4",
+      "duration_sec": 21.1
     }
   ]
 }
