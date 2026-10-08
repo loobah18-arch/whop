@@ -143,6 +143,14 @@
       "timestamp": "2026-10-07T11:12:28.008320+00:00",
       "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_dog_newfoundland_gentle_giant_20261007_111156.mp4",
       "duration_sec": 21.1
+    },
+    {
+      "id": "construction_spider_excavator",
+      "title": "The Walking Excavator That Climbs Mountain Cliffs",
+      "niche": "construction",
+      "timestamp": "2026-10-08T11:30:28.710456+00:00",
+      "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_construction_spider_excavator_20261008_112954.mp4",
+      "duration_sec": 21.07
     }
   ]
 }
