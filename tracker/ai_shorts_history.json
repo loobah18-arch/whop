@@ -167,6 +167,14 @@
       "timestamp": "2026-10-10T10:43:45.337004+00:00",
       "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_construction_3d_house_printing_20261010_104312.mp4",
       "duration_sec": 22.63
+    },
+    {
+      "id": "construction_spider_excavator",
+      "title": "The Walking Excavator That Climbs Mountain Cliffs",
+      "niche": "construction",
+      "timestamp": "2026-10-11T10:56:29.164539+00:00",
+      "video_path": "/home/runner/work/whop/whop/output/bhaloo_short_construction_spider_excavator_20261011_105552.mp4",
+      "duration_sec": 21.07
     }
   ]
 }
