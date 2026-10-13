@@ -1,9 +1,9 @@
 name: "🎬 Bhaloo AI Shorts — Automated Cloud Video Engine"
 
 on:
-  schedule:
-    # Runs daily at 04:30 UTC (off-peak minute)
-    - cron: "30 4 * * *"
+  # schedule:
+  #   # Runs daily at 04:30 UTC (off-peak minute) - disabled
+  #   - cron: "30 4 * * *"
   workflow_dispatch:
     inputs:
       topic:

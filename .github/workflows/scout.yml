@@ -1,9 +1,9 @@
 name: Campaign Scout
 
 on:
-  schedule:
-    # Daily 7:12 AM UTC — off the :00/:30 marks
-    - cron: '12 7 * * *'
+  # schedule:
+  #   # Daily 7:12 AM UTC — off the :00/:30 marks - disabled
+  #   - cron: '12 7 * * *'
   workflow_dispatch:
     inputs:
       min_rate:

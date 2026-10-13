@@ -20,8 +20,8 @@
 name: "Auto-Produce - Scout & Build Top YouTube Clip"
 
 on:
-  schedule:
-    - cron: "30 2 * * *"   # daily at 02:30 UTC (off-peak)
+  # schedule:
+  #   - cron: "30 2 * * *"   # daily at 02:30 UTC (off-peak) - disabled
   workflow_dispatch:
     inputs:
       min_rate:
